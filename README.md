@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LazyKitKat
 - 👀 I’m interested in FOSS and GNU/Linux in general
-- 🌱 I’m currently not learning anything new, so HMU if you have something interesting
+- 🌱 I’m still learning, so if you have any ideas HMU
 - 💞️ I’m looking to collaborate as a beta tester
 - 📫 lazykitkat@tutanota.com
 
