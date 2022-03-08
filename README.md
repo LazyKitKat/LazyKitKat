@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LazyKitKate
+- 👋 Hi, I’m @LazyKitKat
 - 👀 I’m interested in FOSS and GNU/Linux in general
 - 🌱 I’m still learning, so if you have any ideas HMU
 - 💞️ Need to test something? I'm your guy.
