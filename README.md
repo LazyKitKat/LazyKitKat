@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LazyKitKat
 - 👀 I’m interested in FOSS and GNU/Linux in general
-- 🌱 I’m still learning, so if you have any ideas HMU
-- 💞️ Need to test something? I'm your guy.
-- 💎 Learning **Ruby** right now
+- 🌱 I’m still learning, so if you have any ideas HMU (💎 Learning **Ruby** right now)
+- 💞️ Need to test something? I'm your guy. Want me to write some code? I'll do my best!
 - 📫 lazykitkat@tutanota.com
 
 <!---
